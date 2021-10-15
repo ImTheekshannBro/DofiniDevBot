@@ -63,7 +63,7 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Dofini
+Hello there, I'm aakkaa
 I'm a Powerful group manager bot With Cool Modules. Made by [Pawan Theekshana• 🇱🇰](t.me/pawan_Theekshana)
 Hit /help to find my list of available commands
  
